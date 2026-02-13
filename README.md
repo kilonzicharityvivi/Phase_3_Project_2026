@@ -61,17 +61,6 @@ Confusion matrix at threshold 0.35:
 - `presentation/SyriaTel_Churn_Prediction_Phase3.pptx` – stakeholder-facing slide deck
 - `requirements.txt` – minimal Python dependencies
 
-## How to run locally
-1. Create and activate a virtual environment (recommended).
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open and run:
-   - `notebooks/index_improved.ipynb`
-
-If you run the notebook from the repo root, it will find `data/` and will write visuals into `images/`.
-
 ## Links
 - Presentation: `presentation/SyriaTel_Churn_Prediction_Phase3.pptx`
 - Visuals folder: `images/`
