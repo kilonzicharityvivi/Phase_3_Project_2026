@@ -2,7 +2,7 @@
 Predicting Customer Churn
 # SyriaTel Customer Churn Prediction (Phase 3)
 
-## Executive summary (for stakeholders)
+## Executive summary
 SyriaTel loses revenue when customers churn. This project builds a **binary classifier** that predicts whether a customer is likely to churn, so the business can **prioritize retention outreach** (calls, service recovery, plan adjustments) for the customers most at risk.
 
 This model is designed to answer a practical question: **“Are there predictable patterns in customer behavior that signal churn early enough to intervene?”**
